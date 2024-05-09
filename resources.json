@@ -1,0 +1,160 @@
+{
+    "materials": [
+        {
+            "name": "Rock",
+            "cost_per_kg": 0.01
+        },
+        {
+            "name": "Log",
+            "cost_per_kg": 0.05
+        },
+        {
+            "name": "Wood",
+            "cost_per_kg": 0.02
+        },
+        {
+            "name": "Coal",
+            "cost_per_kg": 0.04
+        },
+        {
+            "name": "Iron",
+            "cost_per_kg": 0.1
+        },
+        {
+            "name": "Copper",
+            "cost_per_kg": 8.5
+        },
+        {
+            "name": "Gold",
+            "cost_per_kg": 55.0
+        },
+        {
+            "name": "Silver",
+            "cost_per_kg": 0.8
+        },
+        {
+            "name": "Aluminum",
+            "cost_per_kg": 2.5
+        },
+        {
+            "name": "Zinc",
+            "cost_per_kg": 2.0
+        },
+        {
+            "name": "Lead",
+            "cost_per_kg": 1.2
+        },
+        {
+            "name": "Nickel",
+            "cost_per_kg": 12.0
+        },
+        {
+            "name": "Lithium",
+            "cost_per_kg": 300.0
+        },
+        {
+            "name": "Platinum",
+            "cost_per_kg": 30000.0
+        },
+        {
+            "name": "Palladium",
+            "cost_per_kg": 65000.0
+        },
+        {
+            "name": "Cobalt",
+            "cost_per_kg": 50.0
+        },
+        {
+            "name": "Uranium",
+            "cost_per_kg": 50.0
+        },
+        {
+            "name": "Titanium",
+            "cost_per_kg": 6.0
+        },
+        {
+            "name": "Diamonds",
+            "cost_per_kg": 1000000.0
+        },
+        {
+            "name": "Potash",
+            "cost_per_kg": 0.5
+        },
+        {
+            "name": "Phosphate rock",
+            "cost_per_kg": 0.1
+        },
+        {
+            "name": "Scandium",
+            "cost_per_kg": 600.0
+        },
+        {
+            "name": "Yttrium",
+            "cost_per_kg": 300.0
+        },
+        {
+            "name": "Lanthanum",
+            "cost_per_kg": 50.0
+        },
+        {
+            "name": "Cerium",
+            "cost_per_kg": 30.0
+        },
+        {
+            "name": "Praseodymium",
+            "cost_per_kg": 120.0
+        },
+        {
+            "name": "Neodymium",
+            "cost_per_kg": 70.0
+        },
+        {
+            "name": "Promethium",
+            "cost_per_kg": 2000.0
+        },
+        {
+            "name": "Samarium",
+            "cost_per_kg": 80.0
+        },
+        {
+            "name": "Europium",
+            "cost_per_kg": 400.0
+        },
+        {
+            "name": "Gadolinium",
+            "cost_per_kg": 40.0
+        },
+        {
+            "name": "Terbium",
+            "cost_per_kg": 550.0
+        },
+        {
+            "name": "Dysprosium",
+            "cost_per_kg": 400.0
+        },
+        {
+            "name": "Holmium",
+            "cost_per_kg": 160.0
+        },
+        {
+            "name": "Erbium",
+            "cost_per_kg": 250.0
+        },
+        {
+            "name": "Thulium",
+            "cost_per_kg": 4000.0
+        },
+        {
+            "name": "Ytterbium",
+            "cost_per_kg": 200.0
+        },
+        {
+            "name": "Lutetium",
+            "cost_per_kg": 10000.0
+        },
+        {
+            "name": "Bauxite",
+            "cost_per_kg": 0.1
+        }
+    ]
+}

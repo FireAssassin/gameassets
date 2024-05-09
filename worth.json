@@ -1,0 +1,39 @@
+{
+    "miners": [
+        {
+            "name": "starter",
+            "worth": 0,
+            "sellable?": false
+        }
+    ],
+    "unique-miners": [
+        {
+            "name": "Eros",
+            "description": "Diamond drilling rig for extracting huge amounts of diamonds from hard rock formations",
+            "generates": [
+                "Rock",
+                "Diamonds"
+            ],
+            "consumes": {
+                "Energy": "0/s"
+            },
+            "worth": 83346565,
+            "sellable": true
+        },
+        {
+            "name": "Ares",
+            "description": "Heavy-duty drilling rig for extracting metals from earth",
+            "drops": [
+                "Iron",
+                "Gold",
+                "Copper",
+                ""
+            ],
+            "consumes": {
+                "Energy": "0/s"
+            },
+            "worth": 9234458,
+            "sellable": true
+        }
+    ]
+}
